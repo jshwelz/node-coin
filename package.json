@@ -1,0 +1,20 @@
+{
+  "name": "coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Welchez",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "colors": "^1.2.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5",
+    "mongoose": "^5.0.14",
+    "morgan": "^1.9.0"
+  }
+}
